@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Python virtual environment files
+*.pyc
+*.pyo
+*.pyd
+*.pydist
+*.egg-info/
+
+# Data and log files
+*.log
+*.csv
+*.tsv
+*.dat
+*.db
+*.sqlite
+*.pkl
+
+# Environment variables and credentials
+.env
+*.env
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# C extensions
+*.so
+
+# Logs and debugging
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous binary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Jupyter Notebook output files
+*.nbconvert
+*.html
+*.pdf
+*.latex
+
+# IDE specific
+.vscode/
+.idea/
+
+# macOS specific
+*.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
